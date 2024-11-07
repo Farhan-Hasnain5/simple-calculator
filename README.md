@@ -17,7 +17,7 @@ This is a simple calculator application built using Python and Tkinter. It provi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Farhan-Hasnain/simple-calculator.git
+   git clone https://github.com/Farhan-Hasnain5/simple-calculator.git
    cd simple-calculator
    ```
 
